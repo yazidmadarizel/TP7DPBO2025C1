@@ -6,6 +6,9 @@ Saya Yazid Madarizel dengan NIM 2305328 mengerjakan soal TP 7 dalam mata kuliah 
 
 # Desain Program
 
+![tp7 drawio](https://github.com/user-attachments/assets/f3bcbba2-681c-42a6-9d3f-1a4f717a4d72)
+
+
 Sistem ini merupakan aplikasi manajemen pusat kebugaran yang dibangun menggunakan PHP. Sistem ini mempermudah pengelolaan data alat fitness, anggota, pelatih, serta sesi latihan. Berikut adalah penjelasan mengenai desain dan alur program:
 
 ---
