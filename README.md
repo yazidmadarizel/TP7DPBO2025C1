@@ -78,30 +78,6 @@ Sistem ini merupakan aplikasi manajemen pusat kebugaran yang dibangun menggunaka
 
 ---
 
-## Struktur Folder
-
-```
-fitness-center-management/
-├── class/
-│   ├── Equipment.php
-│   ├── Member.php
-│   ├── Trainer.php
-│   └── Session.php
-├── config/
-│   └── db.php
-├── view/
-│   ├── header.php
-│   ├── footer.php
-│   ├── equipment.php
-│   ├── members.php
-│   ├── trainers.php
-│   └── sessions.php
-├── index.php
-└── style.css
-```
-
----
-
 ## Alur Program
 
 ### Inisialisasi
