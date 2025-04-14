@@ -120,7 +120,6 @@ Sistem ini merupakan aplikasi manajemen pusat kebugaran yang dibangun menggunaka
 ## Keamanan
 - Menggunakan PDO dan prepared statements untuk mencegah SQL Injection
 - Validasi dan sanitasi input dari pengguna
-- Escaping HTML untuk mencegah serangan XSS
 
 ---
 
