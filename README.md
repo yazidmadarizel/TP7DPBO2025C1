@@ -126,7 +126,8 @@ Sistem ini merupakan aplikasi manajemen pusat kebugaran yang dibangun menggunaka
 
 ## Dokumentasi
 
+https://github.com/user-attachments/assets/d74deaa2-2da5-45e2-93c3-d656ff690efa
 
-Uploading 08-54-50.mp4…
+
 
 
